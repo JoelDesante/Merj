@@ -1,0 +1,21 @@
+{
+  "name": "merj",
+  "version": "1.0.0",
+  "description": "Merj is a collaborative development IDE designed to allow more than one person to work on a program at once.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "Merj"
+  },
+  "keywords": [
+    "collaborate"
+  ],
+  "author": "Joel DeSante",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
